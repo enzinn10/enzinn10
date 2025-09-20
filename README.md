@@ -33,4 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enzinn10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4F4F4F&height=120&section=footer"/>
+
 ###
